@@ -1,3 +1,23 @@
+## Contact Manager Angular Application
+
+## Demo
+
+### Contact Manager
+
+![ContactManager](https://user-images.githubusercontent.com/93995641/173183746-dcebf930-fd6d-4519-85bd-7fb8ab7476ac.png)
+
+### View Page
+
+![ContactManager View](https://user-images.githubusercontent.com/93995641/173183748-8b042ffd-aeb0-4eb4-a213-22ae990a6d56.png)
+
+### Update Page
+
+![ContactManager Update](https://user-images.githubusercontent.com/93995641/173183750-26e0f86f-745c-441e-844f-3aaa85a4be56.png)
+
+### Add Page
+
+![ContactManager Add](https://user-images.githubusercontent.com/93995641/173183753-c1ed836b-91d7-4323-a9db-4f2530d9e37e.png)
+
 # ContactManager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
